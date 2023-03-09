@@ -2,6 +2,7 @@
 
 // link, config
 // git init
+
 // git remote add origin URL
 
 // push
@@ -14,3 +15,4 @@
 // git branch checkout branchName
 
 // pull
+//  git pull origin branchName
