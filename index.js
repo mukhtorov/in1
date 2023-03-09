@@ -1,5 +1,16 @@
-// link, config
 // repository -> new project
-// branch -> clone to new version
-// pull
+
+// link, config
+// git init
+// git remote add origin URL
+
 // push
+// 1. git add .
+// 2. git commit -m '...'
+// 3. git push origin
+
+// branch -> clone to new version
+// git branch branchName
+// git branch checkout branchName
+
+// pull
